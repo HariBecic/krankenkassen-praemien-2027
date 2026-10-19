@@ -1,0 +1,43 @@
+kanton_kuerzel,kanton,praemienregion,anzahl_kassen,guenstigste_kasse_2027,guenstigste_praemie_monat_2027_chf,guenstigste_kasse_2026,guenstigste_praemie_monat_2026_chf,andere_kasse_als_2026,spanne_teuerste_guenstigste_jahr_2027_chf
+AG,Aargau,0,27,Agrisano,548.8,Luzerner Hinterland,519.25,ja,1150
+AI,Appenzell Innerrhoden,0,23,ÖKK,436,Agrisano,411,ja,1578
+AR,Appenzell Ausserrhoden,0,23,Agrisano,501,Agrisano,479.4,nein,2056
+BE,Bern,1,26,Sanitas,653.7,Sympany,631,ja,1627
+BE,Bern,2,26,ÖKK,590,Sumiswalder,566.1,ja,1273
+BE,Bern,3,26,Agrisano,541.2,Agrisano,520.4,nein,1584
+BL,Basel-Landschaft,1,23,ÖKK,650,ÖKK,630,nein,1848
+BL,Basel-Landschaft,2,23,ÖKK,606,Agrisano,575.3,ja,1710
+BS,Basel-Stadt,0,23,SLKK,690.4,Assura,673.7,ja,1972
+FR,Freiburg,1,23,Atupri,593.3,Helsana,577,ja,1277
+FR,Freiburg,2,23,ÖKK,551,Agrisano,523.3,ja,1096
+GE,Genf,0,21,Assura,711.2,Assura,686.7,nein,2454
+GL,Glarus,0,26,Agrisano,523.8,vita surselva,493,ja,1346
+GR,Graubünden,1,24,curaulta,525.2,vita surselva,499,ja,1920
+GR,Graubünden,2,24,curaulta,489.5,vita surselva,464,ja,1745
+GR,Graubünden,3,24,curaulta,450.8,vita surselva,426,ja,1751
+JU,Jura,0,21,Atupri,655.8,Atupri,628.2,nein,1858
+LU,Luzern,1,25,Luzerner Hinterland,527.65,Luzerner Hinterland,502.55,nein,1795
+LU,Luzern,2,25,Luzerner Hinterland,489.65,Luzerner Hinterland,468.55,nein,1927
+LU,Luzern,3,25,Luzerner Hinterland,468.65,Luzerner Hinterland,452.8,nein,2015
+NE,Neuenburg,0,21,Atupri,675.6,Atupri,655.9,nein,1913
+NW,Nidwalden,0,26,Agrisano,461.5,Agrisano,448.1,nein,1750
+OW,Obwalden,0,26,Agrisano,474,Agrisano,445.1,nein,1510
+SG,St. Gallen,1,25,Agrisano,560.5,Agrisano,536.4,nein,2040
+SG,St. Gallen,2,25,Agrisano,509.9,Agrisano,487.9,nein,1859
+SG,St. Gallen,3,25,Agrisano,488,Agrisano,467,nein,2034
+SH,Schaffhausen,1,23,Agrisano,568.3,ÖKK,552,ja,1669
+SH,Schaffhausen,2,23,Agrisano,514.5,Agrisano,504.4,nein,1806
+SO,Solothurn,0,25,Agrisano,582.4,Agrisano,565.4,nein,1562
+SZ,Schwyz,0,28,Einsiedler Krankenkasse,454.7,Einsiedler Krankenkasse,439.3,nein,1951
+TG,Thurgau,0,23,Agrisano,524.6,Agrisano,499.6,nein,1529
+TI,Tessin,1,21,Agrisano,713,Agrisano,679,nein,1751
+TI,Tessin,2,21,Agrisano,658,Agrisano,626.7,nein,1777
+UR,Uri,0,26,Atupri,463.9,Agrisano,437.9,ja,3174
+VD,Waadt,1,21,Galenos,661.4,Galenos,647.8,nein,1433
+VD,Waadt,2,21,Galenos,614.4,Galenos,601.7,nein,1622
+VS,Wallis,1,24,Atupri,574.2,Atupri,544.4,nein,944
+VS,Wallis,2,26,Krankenkasse Visperterminen,494.45,Krankenkasse Visperterminen,470.9,nein,1466
+ZG,Zug,0,27,Agrisano,405.3,CONCORDIA,385.8,ja,1828
+ZH,Zürich,1,27,SLKK,633,SLKK,605.2,nein,1412
+ZH,Zürich,2,27,Krankenkasse Wädenswil,557.1,Krankenkasse Wädenswil,535.6,nein,1250
+ZH,Zürich,3,27,Krankenkasse Wädenswil,508.1,Krankenkasse Wädenswil,488.5,nein,1650
