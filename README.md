@@ -23,13 +23,17 @@ BAG über alle Versicherten rechnet. Prämienregion 0 heisst: Der Kanton hat kei
 
 ## Quelle und Lizenz
 
-- Grundlage: Prämiendaten des BAG ([priminfo.admin.ch](https://www.priminfo.admin.ch/de/sparen/grundversicherung)).
+- Grundlage: Bundesamt für Gesundheit (BAG), Sektion Prämien und finanzielle Risiken, Datensatz
+  [Krankenversicherungsprämien](https://opendata.swiss/de/dataset/health-insurance-premiums) auf opendata.swiss,
+  Dateien Prämien_CH.csv und Einzugsgebiete.csv.
 - Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) (Text in [`LICENSE`](LICENSE)). Nutzung,
-  Weitergabe und Bearbeitung sind frei, auch kommerziell, mit Quellenangabe:
+  Weitergabe und Bearbeitung sind frei, auch kommerziell. Wer die Daten veröffentlicht oder weitergibt, nennt die
+  Lizenz, kennzeichnet eigene Änderungen und gibt diese Quelle an:
 
   > Quelle: knety.ch, auf Basis der BAG-Prämiendaten
 
-  Online bitte mit Link auf https://knety.ch/krankenkasse/praemien-2027.
+  Ein Link auf https://knety.ch/krankenkasse/praemien-2027 ist willkommen, aber freiwillig: Er ist keine Bedingung der
+  Lizenz, auch nicht nach Abschnitt 3(a)(1)(A)(v).
 
 Verbindlich sind die Prämien, die die Kasse in der Offerte nennt. Fehler gefunden? Bitte ein Issue eröffnen oder an
 hallo@knety.ch schreiben.
@@ -38,5 +42,8 @@ hallo@knety.ch schreiben.
 
 **English:** Swiss mandatory health insurance premiums 2027 by canton and premium region (adults, CHF 300 deductible,
 standard model, accident cover included), computed from the Federal Office of Public Health (FOPH/BAG) premium data.
-CSV, UTF-8. License CC BY 4.0, attribution: «Quelle: knety.ch, auf Basis der BAG-Prämiendaten».
-Details: https://knety.ch/krankenkasse/praemien-2027
+CSV, UTF-8. License CC BY 4.0, free to use, also commercially. When you publish or share the data, credit «Quelle:
+knety.ch, auf Basis der BAG-Prämiendaten», name the license and mark your changes. A link to
+https://knety.ch/krankenkasse/praemien-2027 is welcome but optional; it is not a condition of the license (we waive
+Section 3(a)(1)(A)(v)). Source data: Federal Office of Public Health (FOPH/BAG), dataset Krankenversicherungsprämien,
+https://opendata.swiss/de/dataset/health-insurance-premiums. Details: https://knety.ch/krankenkasse/praemien-2027
